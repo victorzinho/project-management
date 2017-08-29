@@ -1,0 +1,9 @@
+ [
+	 "size",
+ 	"Priority: Critical",
+ 	"Priority: High",
+ 	"Priority: Low",
+ 	"Type: Bug",
+ 	"Type: Feature",
+ 	"Type: Question"
+ ]

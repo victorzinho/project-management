@@ -1,0 +1,11 @@
+{
+  "Priority: Critical": "ee0701",
+  "Priority: High": "ff9900",
+  "Priority: Low": "009900",
+  "Status: Ready": "c2e0c6",
+  "Status: In Progress": "0052cc",
+  "Status: Almost Done": "eecc00",
+  "Type: Bug": "ee0701",
+  "Type: Feature": "84b6eb",
+  "Type: Question": "cc317c"
+}
